@@ -3,7 +3,7 @@
   "lang": "en-US",
   "short_name": "RLX",
   "start_url": ".",
-  "display": "standalone",
+  "display": "browser",
   "background_color": "#312450",
   "description": "Relax Commerce Website.",
   "icons": [
